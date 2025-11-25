@@ -1,0 +1,135 @@
+2025-11-26 01:57:10,096 - INFO - [OK] OpenRouter connection test SUCCESS with mistralai/mistral-7b-instruct
+2025-11-26 01:57:10,113 - INFO - [SETUP] Setting up application...
+2025-11-26 01:57:10,120 - INFO - [OK] Application setup complete
+2025-11-26 02:18:49,613 - INFO - [OK] OpenRouter connection test SUCCESS with mistralai/mistral-7b-instruct
+2025-11-26 02:18:49,627 - INFO - [SETUP] Setting up application...
+2025-11-26 02:18:49,631 - INFO - [OK] Application setup complete
+2025-11-26 02:25:15,926 - INFO - [OK] OpenRouter connection test SUCCESS with mistralai/mistral-7b-instruct
+2025-11-26 02:25:15,939 - INFO - [SETUP] Setting up application...
+2025-11-26 02:25:15,942 - INFO - [OK] Application setup complete
+2025-11-26 02:25:15,947 - INFO - [AUTH] Initiating manual login...
+2025-11-26 02:25:16,066 - INFO - ====== WebDriver manager ======
+2025-11-26 02:25:19,776 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-26 02:25:21,430 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-26 02:25:23,111 - INFO - Driver [C:\Users\Raman\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-11-26 02:25:23,279 - ERROR - [ERROR] Failed to create browser driver: [WinError 193] %1 is not a valid Win32 application
+2025-11-26 02:25:31,061 - ERROR - [ERROR] Ultimate fallback also failed: Not supported URL scheme Proxy URL had no scheme, should start with http:// or https://
+2025-11-26 02:25:31,320 - ERROR - [ERROR] Failed to create Selenium driver: Not supported URL scheme Proxy URL had no scheme, should start with http:// or https://. Falling back to manual browser open.
+2025-11-26 02:25:38,280 - ERROR - [ERROR] Could not start Selenium driver: Not supported URL scheme Proxy URL had no scheme, should start with http:// or https://
+2025-11-26 02:25:51,621 - INFO - [OK] Login successful (manual)
+2025-11-26 02:25:51,622 - ERROR - [ERROR] No active browser session to save
+2025-11-26 02:25:51,623 - INFO - [TEST] Testing landing page analysis...
+2025-11-26 02:25:51,623 - ERROR - [ERROR] Element finder not initialized. Please login first.
+2025-11-26 02:25:51,626 - INFO - 🔄 Simulating purchase flow...
+2025-11-26 02:25:51,626 - ERROR - [ERROR] Element finder not initialized
+2025-11-26 02:25:51,627 - INFO - 👁️ Starting adaptive monitoring...
+2025-11-26 02:25:51,628 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:25:51,628 - INFO - [OK] Adaptive monitoring started
+2025-11-26 02:25:57,104 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:26:02,545 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:26:07,772 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:26:09,733 - INFO - [STOP] Application stopped
+2025-11-26 02:26:14,928 - INFO - [OK] OpenRouter connection test SUCCESS with mistralai/mistral-7b-instruct
+2025-11-26 02:26:14,932 - INFO - [SETUP] Setting up application...
+2025-11-26 02:26:14,933 - INFO - [OK] Application setup complete
+2025-11-26 02:26:14,935 - INFO - [AUTH] Initiating manual login...
+2025-11-26 02:26:15,013 - INFO - ====== WebDriver manager ======
+2025-11-26 02:26:17,402 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-26 02:26:18,894 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-26 02:26:20,438 - INFO - Driver [C:\Users\Raman\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-11-26 02:26:20,444 - ERROR - [ERROR] Failed to create browser driver: [WinError 193] %1 is not a valid Win32 application
+2025-11-26 02:26:23,714 - ERROR - [ERROR] Ultimate fallback also failed: Not supported URL scheme Proxy URL had no scheme, should start with http:// or https://
+2025-11-26 02:26:23,714 - ERROR - [ERROR] Failed to create Selenium driver: Not supported URL scheme Proxy URL had no scheme, should start with http:// or https://. Falling back to manual browser open.
+2025-11-26 02:26:27,883 - ERROR - [ERROR] Could not start Selenium driver: Not supported URL scheme Proxy URL had no scheme, should start with http:// or https://
+2025-11-26 02:29:42,554 - INFO - [OK] Login successful (manual)
+2025-11-26 02:29:42,611 - ERROR - [ERROR] No active browser session to save
+2025-11-26 02:29:42,614 - INFO - [TEST] Testing landing page analysis...
+2025-11-26 02:29:42,614 - ERROR - [ERROR] Element finder not initialized. Please login first.
+2025-11-26 02:29:42,615 - INFO - 🔄 Simulating purchase flow...
+2025-11-26 02:29:42,625 - ERROR - [ERROR] Element finder not initialized
+2025-11-26 02:29:42,627 - INFO - 👁️ Starting adaptive monitoring...
+2025-11-26 02:29:42,629 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:29:42,629 - INFO - [OK] Adaptive monitoring started
+2025-11-26 02:29:47,630 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:29:52,632 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:29:57,634 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:30:02,636 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:30:07,639 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:30:12,643 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:30:17,792 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:30:22,847 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:30:27,859 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:30:32,876 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:30:37,878 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:30:42,882 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:30:47,884 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:30:52,886 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:30:57,887 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:31:02,891 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:31:07,893 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:31:12,895 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:31:17,897 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:31:21,818 - INFO - [STOP] Application stopped
+2025-11-26 02:31:50,312 - INFO - [OK] OpenRouter connection test SUCCESS with mistralai/mistral-7b-instruct
+2025-11-26 02:31:50,317 - INFO - [SETUP] Setting up application...
+2025-11-26 02:31:50,320 - INFO - [OK] Application setup complete
+2025-11-26 02:31:50,327 - INFO - [AUTH] Initiating manual login...
+2025-11-26 02:31:50,433 - INFO - ====== WebDriver manager ======
+2025-11-26 02:31:52,835 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-26 02:31:54,394 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-26 02:31:55,971 - INFO - Driver [C:\Users\Raman\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-11-26 02:31:55,974 - ERROR - [ERROR] Failed to create browser driver: [WinError 193] %1 is not a valid Win32 application
+2025-11-26 02:32:00,009 - ERROR - [ERROR] Ultimate fallback also failed: Not supported URL scheme Proxy URL had no scheme, should start with http:// or https://
+2025-11-26 02:32:00,018 - ERROR - [ERROR] Failed to create Selenium driver: Not supported URL scheme Proxy URL had no scheme, should start with http:// or https://. Falling back to manual browser open.
+2025-11-26 02:32:04,207 - ERROR - [ERROR] Could not start Selenium driver: Not supported URL scheme Proxy URL had no scheme, should start with http:// or https://
+2025-11-26 02:34:17,587 - INFO - [OK] Login successful (manual)
+2025-11-26 02:34:17,602 - ERROR - [ERROR] No active browser session to save
+2025-11-26 02:34:17,667 - INFO - [TEST] Testing landing page analysis...
+2025-11-26 02:34:17,668 - ERROR - [ERROR] Element finder not initialized. Please login first.
+2025-11-26 02:34:17,687 - INFO - 🔄 Simulating purchase flow...
+2025-11-26 02:34:17,703 - ERROR - [ERROR] Element finder not initialized
+2025-11-26 02:34:17,734 - INFO - 👁️ Starting adaptive monitoring...
+2025-11-26 02:34:17,759 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:34:17,759 - INFO - [OK] Adaptive monitoring started
+2025-11-26 02:34:22,763 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:34:27,765 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:34:32,768 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:34:37,770 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:34:42,776 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:34:47,779 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:34:52,781 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:34:57,785 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:35:02,787 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:35:07,790 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:35:12,795 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:35:17,798 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:35:22,799 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:35:27,801 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:35:32,803 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:35:37,805 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:35:42,807 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:35:47,813 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:35:52,814 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:35:57,816 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:36:02,821 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:36:07,826 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:36:12,829 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:36:17,832 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:36:22,838 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:36:27,839 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:36:32,844 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:36:37,847 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:36:42,856 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:36:47,860 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:36:52,862 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:36:57,865 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:37:02,869 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:37:07,876 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:37:12,880 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:37:17,885 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:37:22,887 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:37:27,889 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:37:32,892 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:37:37,895 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:37:42,899 - ERROR - Monitoring error: 'NoneType' object has no attribute 'find_products_on_landing_page'
+2025-11-26 02:37:43,912 - INFO - [STOP] Application stopped

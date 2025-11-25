@@ -1,0 +1,57 @@
+
+app:
+  name: "Adaptive Snapp Buyer"
+  version: "2.0.0"
+
+snapp:
+  login_url: "https://app.snapp.taxi/login"
+  snapp_pay_url: "https://snapppay.ir/timetable/"
+  phone_number: "09014282751"
+
+monitor:
+  refresh_interval: 3
+  max_retries: 5
+  timeout: 30
+
+ai:
+  model: "mistralai/mistral-7b-instruct" 
+  max_tokens: 1000
+  temperature: 0.1
+
+
+user:
+  name: "رامان گرگین پاوه" 
+  name_en: "Raman Gorgin Paveh" 
+  national_code: "0150629737" 
+  birth_date: "1383/03/14"  
+  birth_date_en: "2004/06/04" 
+  birth_city: "Karaj"  
+  gender: "male" 
+  
+  # Contact Information
+  phone: "09014282751" 
+  email: "raman.gorginpaveh@gmail.com" 
+  alternative_phone: "09910946921"
+  
+  # Address Information
+  address: "کرج،‌ جهانشهر، بلوار مولانا، خیابان ترانه شرقی، پلاک ۱۶ واحد ۱۹"  
+  city: "Karaj"  
+  province: "Alborz"  
+  home_phone: "02634404954"
+  postal_code: "3148612345"  
+  
+  # Additional Iranian-specific fields
+  father_name: "محمدرضا" 
+  job: "برنامه‌نویس"
+  education: "دیپلم" 
+
+products:
+  priority_keywords:
+    - "samsung s25 ultra"
+    - "asus vivobook x1504va"
+    - "playstation 5 slim"
+    - "anker soundcore r50i"
+    - "samsung galaxy a16"
+    - "apple airpods 4"
+    - "xiaomi powerbank"
+    - "casio godfather watch"

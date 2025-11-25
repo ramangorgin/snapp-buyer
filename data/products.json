@@ -1,0 +1,60 @@
+{
+  "priority_products": [
+    {
+      "id": 1,
+      "name": "Samsung S25 Ultra Mobile",
+      "category": "digital",
+      "target_selectors": [
+        "//div[contains(text(), 'Samsung S25')]",
+        "//a[contains(@href, 'samsung') and contains(text(), 'S25')]"
+      ]
+    },
+    {
+      "id": 2, 
+      "name": "Asus Vivobook X1504VA Laptop",
+      "category": "digital",
+      "target_selectors": [
+        "//div[contains(text(), 'Vivobook')]",
+        "//a[contains(@href, 'asus') and contains(text(), 'Vivobook')]"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sony PlayStation 5 Slim", 
+      "category": "digital",
+      "target_selectors": [
+        "//div[contains(text(), 'PlayStation')]",
+        "//a[contains(@href, 'playstation')]"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Anker SoundCore R50i Headphones",
+      "category": "digital", 
+      "target_selectors": [
+        "//div[contains(text(), 'SoundCore')]",
+        "//a[contains(@href, 'anker')]"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy A16 4G Mobile",
+      "category": "digital",
+      "target_selectors": [
+        "//div[contains(text(), 'Galaxy A16')]",
+        "//a[contains(@href, 'samsung') and contains(text(), 'A16')]"
+      ]
+    }
+  ],
+  "other_products": [
+    {
+      "id": 6,
+      "name": "Casio Godfather Watch",
+      "category": "other",
+      "target_selectors": [
+        "//div[contains(text(), 'Casio')]",
+        "//a[contains(@href, 'casio')]"
+      ]
+    }
+  ]
+}
